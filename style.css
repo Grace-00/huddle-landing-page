@@ -32,3 +32,22 @@ h1 {
   padding-top: 0.5%;
   margin-left: 4%;
 }
+
+h2 {
+  font-family: "Poppins";
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  font-size: 30px;
+}
+
+h2,
+p {
+  color: white;
+}
+
+p {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  margin-top: 0.5%;
+  line-height: 22px;
+}
