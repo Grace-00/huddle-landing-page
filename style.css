@@ -53,7 +53,7 @@ p {
 }
 
 img.icon {
-  background-color: white;
+  outline-color: #fff;
   width: 30px;
   height: 30px;
   padding: 8px;
