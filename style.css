@@ -99,3 +99,36 @@ button {
 a {
   color: white;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    display: block;
+  }
+
+  body {
+    background-image: url(bg-mobile.svg);
+  }
+
+  img {
+    width: 100%;
+  }
+
+  .community {
+    margin: 0;
+  }
+
+  h2,
+  p {
+    text-align: center;
+  }
+
+  .register {
+    text-align: center;
+  }
+
+  .icons {
+    justify-content: center;
+    margin-right: 0;
+    margin-top: 8%;
+  }
+}
