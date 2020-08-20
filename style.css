@@ -85,3 +85,17 @@ button {
   font-family: "Poppins";
   font-size: 15px;
 }
+
+.register {
+  text-align: left;
+}
+
+.attribution {
+  font-size: 11px;
+  margin-top: 2%;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
